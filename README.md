@@ -25,3 +25,5 @@ Summary of changes from original supplied assets:
 
 CODE in css reorganized to match mock up sections
 CODE in css class selectors combined for repeated properties, HTML updated to match new class selector
+Edited HTML to be tidier
+Comments added to HTML and CSS to help identify sections of web app
