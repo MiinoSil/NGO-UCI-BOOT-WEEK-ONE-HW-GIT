@@ -1,3 +1,5 @@
+## links
+
 GitHub Page link: https://miinosil.github.io/NGO-UCI-BOOT-WEEK-ONE-HW-GIT/
 
 GitHub Repository link: https://github.com/MiinoSil/NGO-UCI-BOOT-WEEK-ONE-HW-GIT
@@ -21,7 +23,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-Summary of changes from original supplied assets:
+## Summary of changes from original supplied assets:
 ```
 CODE in css reorganized to match mock up sections
 CODE in css class selectors combined for repeated properties, HTML updated to match new class selector
