@@ -1,8 +1,8 @@
 ## Links
 ```
-GitHub Page link: https://miinosil.github.io/NGO-UCI-BOOT-WEEK-ONE-HW-GIT/
+GitHub Page link: <https://miinosil.github.io/NGO-UCI-BOOT-WEEK-ONE-HW-GIT/>
 
-GitHub Repository link: https://github.com/MiinoSil/NGO-UCI-BOOT-WEEK-ONE-HW-GIT
+GitHub Repository link: <https://github.com/MiinoSil/NGO-UCI-BOOT-WEEK-ONE-HW-GIT>
 ```
 
 Per homework acceptance criteria, page is designed to look similarly to mockup image below with .html and .css code changes to fit the acceptance criteria.
