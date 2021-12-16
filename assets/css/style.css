@@ -61,6 +61,7 @@ p {
 }
 
 /*Body content located toward bottom-left of page*/
+/*Code reorganized to match content criteria or category*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -131,6 +132,7 @@ p {
     font-size: 36px;
 }
 /*Benefits content located in right column toward bottom-right of page*/
+/*code reorganized to match content criteria or category*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
