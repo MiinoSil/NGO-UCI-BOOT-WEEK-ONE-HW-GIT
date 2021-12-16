@@ -1,4 +1,4 @@
-## links
+## Links
 ```
 GitHub Page link: https://miinosil.github.io/NGO-UCI-BOOT-WEEK-ONE-HW-GIT/
 
